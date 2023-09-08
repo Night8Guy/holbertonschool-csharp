@@ -1,0 +1,14 @@
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.exe
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.deps.json
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.runtimeconfig.json
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.dll
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.pdb
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.AssemblyInfoInputs.cache
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.AssemblyInfo.cs
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.csproj.CoreCompileInputs.cache
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.dll
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\refint\6-print_string.dll
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.pdb
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.genruntimeconfig.cache
+C:\Users\bigro\.vscode\holbertonschool-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\ref\6-print_string.dll
