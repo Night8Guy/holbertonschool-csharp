@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-cd ~/csharp-hello_world
+dotnet new console -n 2-new_project
 
-dotnet new console -o 2-new_project
+cd 2-new_project
 
-dotnet build 2-new_project
+dotnet build
 
-dotnet run --project 2-new_project
+dotnet run

@@ -1,8 +1,8 @@
 using System;
 
-class Program
+public class NewTask
 {
-    static void Main(string[] args)
+    public static void Main()
     {
         Console.WriteLine("\"Programming is like building a multilingual puzzle");
     }
