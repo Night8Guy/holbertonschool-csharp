@@ -17,7 +17,7 @@ public class List
         }
         catch (Exception)
         {
-            // Do nothing, since we just want to catch the exception and continue.
+            
         }
 
         return printedCount;
