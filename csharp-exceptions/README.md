@@ -1,0 +1,1 @@
+Readme about exceptions in C#
