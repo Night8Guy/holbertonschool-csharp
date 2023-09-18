@@ -8,3 +8,4 @@ public class Line
             Console.Write("_");
         Console.WriteLine();
     }
+}
