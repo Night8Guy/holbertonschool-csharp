@@ -4,19 +4,19 @@ public class Int
 {
     public static void divide(int a, int b)
     {
-        int result = 0;
+        int sum = 0;
 
         try
         {
-            result = a / b;
+            sum = a / b;
         }
-        catch (DivideByZeroException)
+        catch (Exception)
         {
             Console.WriteLine("Cannot divide by zero");
         }
         finally
         {
-            Console.WriteLine($"{a} / {b} = {result}");
+            Console.WriteLine("{0} / {1} = {2}", a, b, sum);
         }
     }
 }
