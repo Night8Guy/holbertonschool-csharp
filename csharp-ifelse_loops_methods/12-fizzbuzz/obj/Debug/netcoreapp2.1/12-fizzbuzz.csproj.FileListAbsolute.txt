@@ -1,0 +1,11 @@
+/home/night8guy/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.deps.json
+/home/night8guy/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.runtimeconfig.json
+/home/night8guy/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.runtimeconfig.dev.json
+/home/night8guy/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.dll
+/home/night8guy/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.pdb
+/home/night8guy/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.csprojAssemblyReference.cache
+/home/night8guy/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.csproj.CoreCompileInputs.cache
+/home/night8guy/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.AssemblyInfoInputs.cache
+/home/night8guy/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.AssemblyInfo.cs
+/home/night8guy/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.dll
+/home/night8guy/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.pdb
