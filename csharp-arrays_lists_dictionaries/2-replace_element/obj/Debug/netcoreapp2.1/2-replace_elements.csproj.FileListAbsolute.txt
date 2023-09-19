@@ -1,0 +1,11 @@
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_elements.deps.json
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_elements.runtimeconfig.json
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_elements.runtimeconfig.dev.json
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_elements.dll
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_elements.pdb
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_elements.csprojAssemblyReference.cache
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_elements.csproj.CoreCompileInputs.cache
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_elements.AssemblyInfoInputs.cache
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_elements.AssemblyInfo.cs
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_elements.dll
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_elements.pdb

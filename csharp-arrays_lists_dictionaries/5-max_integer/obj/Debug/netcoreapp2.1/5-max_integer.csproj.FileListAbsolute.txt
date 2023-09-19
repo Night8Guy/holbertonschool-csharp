@@ -1,0 +1,11 @@
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/netcoreapp2.1/5-max_integer.deps.json
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/netcoreapp2.1/5-max_integer.runtimeconfig.json
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/netcoreapp2.1/5-max_integer.runtimeconfig.dev.json
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/netcoreapp2.1/5-max_integer.dll
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/netcoreapp2.1/5-max_integer.pdb
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.csprojAssemblyReference.cache
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.csproj.CoreCompileInputs.cache
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.AssemblyInfoInputs.cache
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.AssemblyInfo.cs
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.dll
+/home/night8guy/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.pdb
