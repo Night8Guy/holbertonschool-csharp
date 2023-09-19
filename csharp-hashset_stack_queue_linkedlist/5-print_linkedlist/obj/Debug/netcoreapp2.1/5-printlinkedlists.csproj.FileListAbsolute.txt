@@ -1,0 +1,11 @@
+/home/night8guy/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/netcoreapp2.1/5-printlinkedlists.deps.json
+/home/night8guy/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/netcoreapp2.1/5-printlinkedlists.runtimeconfig.json
+/home/night8guy/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/netcoreapp2.1/5-printlinkedlists.runtimeconfig.dev.json
+/home/night8guy/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/netcoreapp2.1/5-printlinkedlists.dll
+/home/night8guy/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/netcoreapp2.1/5-printlinkedlists.pdb
+/home/night8guy/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/netcoreapp2.1/5-printlinkedlists.csprojAssemblyReference.cache
+/home/night8guy/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/netcoreapp2.1/5-printlinkedlists.csproj.CoreCompileInputs.cache
+/home/night8guy/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/netcoreapp2.1/5-printlinkedlists.AssemblyInfoInputs.cache
+/home/night8guy/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/netcoreapp2.1/5-printlinkedlists.AssemblyInfo.cs
+/home/night8guy/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/netcoreapp2.1/5-printlinkedlists.dll
+/home/night8guy/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/netcoreapp2.1/5-printlinkedlists.pdb
