@@ -3,7 +3,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp2.1</TargetFramework>
-        <RootNamespace>_0_print_array</RootNamespace>
+        <RootNamespace>_11_multiply_by_2</RootNamespace>
     </PropertyGroup>
 
 </Project>
