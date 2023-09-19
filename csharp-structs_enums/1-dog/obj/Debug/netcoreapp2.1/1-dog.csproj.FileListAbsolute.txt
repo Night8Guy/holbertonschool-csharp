@@ -1,0 +1,11 @@
+/home/night8guy/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.deps.json
+/home/night8guy/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.runtimeconfig.json
+/home/night8guy/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.runtimeconfig.dev.json
+/home/night8guy/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.dll
+/home/night8guy/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.pdb
+/home/night8guy/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.csprojAssemblyReference.cache
+/home/night8guy/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.csproj.CoreCompileInputs.cache
+/home/night8guy/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.AssemblyInfoInputs.cache
+/home/night8guy/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.AssemblyInfo.cs
+/home/night8guy/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.dll
+/home/night8guy/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.pdb
