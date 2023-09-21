@@ -1,39 +1,21 @@
-using NUnit.Framework;
+﻿using System;
 
-namespace MyMath.Tests
+namespace MyMath;
 {
-    [TestFixture]
-    public class DivTests
+    /// <summary>
+    /// This is a class called Operations
+    /// </summary>
+    public static class Operations
     {
-        [Test]
-        public void PosByTwo()
+        /// <summary>
+        /// This adds two values
+        /// </summary>
+        /// <param name="a"> Int A </param>
+        /// <param name="b"> Int B </param>
+        /// <returns> A + B </returns>
+        public static int Add(int a, int b)
         {
-            int[,] matrix = new int[,] {{15, 20}, {10, 30}, {7, 8}};
-            int n = 2;
-
-            int[,] res = Matrix.Divide(matrix, n);
-
-            Assert.AreEqual(new int[,] {{7, 10}, {5, 15}, {3, 4}}, res);
-        }
-        [Test]
-        public void Zero()
-        {
-            int[,] matrix = new int[,] {{15, 20}, {10, 30}, {7, 8}};
-            int n = 0;
-
-            int[,] res = Matrix.Divide(matrix, n);
-
-            Assert.AreEqual(null, res);
-        }
-        [Test]
-        public void IsNull()
-        {
-            int[,] matrix = null;
-            int n = 5;
-
-            int[,] res = Matrix.Divide(matrix, n);
-
-            Assert.AreEqual(null, res);
+            return a + b;
         }
     }
 }
