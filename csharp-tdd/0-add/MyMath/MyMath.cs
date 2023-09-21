@@ -1,21 +1,17 @@
-﻿using System;
+using System;
 
-namespace MyMath;
-{
+namespace MyMath{
     /// <summary>
-    /// This is a class called Operations
+    /// Adds 2 numbers
     /// </summary>
-    public static class Operations
+    public class Operations
     {
         /// <summary>
-        /// This adds two values
+        /// Function to add
         /// </summary>
-        /// <param name="a"> Int A </param>
-        /// <param name="b"> Int B </param>
-        /// <returns> A + B </returns>
         public static int Add(int a, int b)
         {
-            return a + b;
+            return (a + b);
         }
     }
 }
