@@ -1,1 +1,0 @@
-This Readme is about linked lists
