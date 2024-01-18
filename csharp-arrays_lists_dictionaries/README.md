@@ -1,1 +1,0 @@
-Readme about arrays in C#
